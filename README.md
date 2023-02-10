@@ -3,7 +3,7 @@
 ## Tecnologias: HTML, CSS e JavaScript
 
 
-### Link KenzieFlix: https://s2-07-entrega-speed-job.vercel.app
+### Link SpeedJob: https://s2-07-entrega-speed-job.vercel.app
 
 
 
