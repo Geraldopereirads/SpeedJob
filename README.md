@@ -3,7 +3,7 @@
 ## Tecnologias: HTML, CSS e JavaScript
 
 
-### Link SpeedJob: https://s2-07-entrega-speed-job.vercel.app
+### Link SpeedJob: https://speed-job.vercel.app/
 
 
 
